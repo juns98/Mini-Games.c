@@ -20,7 +20,7 @@
 3. 기억력 테스트
 ![image](https://user-images.githubusercontent.com/64398993/147631156-6c819194-3049-4e7e-81a4-c3055179bb3f.png)
 
-4. A 피하기 게임
+4. 가위바위보 게임
 ![image](https://user-images.githubusercontent.com/64398993/147631170-12d51f35-0fff-46fd-b355-0eef10a591be.png)
 
 5. A 피하기 게임
